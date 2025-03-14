@@ -1,2 +1,2 @@
 # Heart_Attack_Analysis_Prediction
-model with multiple stop callbacks
+Data Analysis and ANN Prediction For Heart Attack Dataset With Multiple Early Stop Callbacks
